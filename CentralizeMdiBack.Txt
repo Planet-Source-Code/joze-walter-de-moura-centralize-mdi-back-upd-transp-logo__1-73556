@@ -1,0 +1,8 @@
+A few code lines solves a old problem: Mdi Background nice resize.
+No Api, no classes, no modules. The vb sample project is a very easy
+copy-and-paste code in case studie with ZOrdes and Arrange samples.
+See MDiForm code to read a few lines tutorial.
+There are two "pizzas" too: 1) a Logo you want don't resizes
+but maintain centralized in MDi area no matter which resolutions and
+window measures; 2) A variable text or other control that matches logo
+moves.
